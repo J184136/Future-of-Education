@@ -56,7 +56,7 @@ html{
     border-radius: 9px;
 }
 .background{
-    background:rgb(0,0,0,0.7) url('../bg.jpg');
+    background:rgb(0,0,0,0.7) url('bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
