@@ -56,8 +56,8 @@ html{
     border-radius: 9px;
 }
 .background{
-/*     background:rgb(0,0,0,0.7) url('../bg.jpeg'); */
-    background: url('bg.jpeg') center center/cover;
+    background:rgb(0,0,0,0.7) url('../img2.jpeg');
+/*     background: url('bg.jpeg') center center/cover; */
     background-size: cover;
     background-blend-mode: darken;
 }
