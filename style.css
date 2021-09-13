@@ -57,7 +57,7 @@ html{
 }
 .background{
 /*     background:rgb(0,0,0,0.7) url('../bg.jpeg'); */
-    background: url('bg.jpg') center center/cover;
+    background: url('bg.jpeg') center center/cover;
     background-size: cover;
     background-blend-mode: darken;
 }
